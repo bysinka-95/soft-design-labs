@@ -1,0 +1,7 @@
+Invalid coffee shop:
+shop: name is not set
+ShopBuilderTest.java:78: drink price is not set
+ShopBuilderTest.java:78: drink 'latte' already exists
+ShopBuilderTest.java:79: drink name is not set
+ShopBuilderTest.java:80: barista name is not set
+ShopBuilderTest.java:80: unknown drink 'mocha'
