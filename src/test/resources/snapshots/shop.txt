@@ -1,0 +1,5 @@
+Bean There
+Drink[name=espresso, price=30, volumeMl=40]
+Drink[name=latte, price=45, volumeMl=250]
+Barista[name=Ion, experienceYears=1, signature=Drink[name=latte, price=45, volumeMl=250]]
+Barista[name=Maria, experienceYears=1, signature=Drink[name=espresso, price=30, volumeMl=40]]
